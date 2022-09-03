@@ -1,0 +1,44 @@
+[ {
+    "id": 1,
+    "title": "Samsung J730F",
+    "price": 695,
+     "image": "https://preview.colorlib.com/theme/onetech/images/xbest_4.png.pagespeed.ic.Ow9CLwpKeJ.webp"
+    
+ },
+  {
+    "id": 2,
+    "title": "Huawei MediaPad",
+    "price": 875,
+     "image": "https://preview.colorlib.com/theme/onetech/images/xview_4.jpg.pagespeed.ic.gcfPB3V9Wh.webp"
+    
+ },
+  {
+    "id": 3,
+    "title": "LUNA SmartPhone",
+    "price": 495,
+     "image": "https://preview.colorlib.com/theme/onetech/images/xview_2.jpg.pagespeed.ic.C2lAFOmOFR.webp"
+    
+ },
+  {
+    "id": 4,
+    "title": "Deoplay H7",
+    "price": 395,
+     "image": "https://preview.colorlib.com/theme/onetech/images/xview_1.jpg.pagespeed.ic.c7PizLSOMV.webp"
+    
+ },
+  {
+    "id": 5,
+    "title": "Digitus EDNET",
+    "price": 795,
+     "image": "https://preview.colorlib.com/theme/onetech/images/xfeatured_8.png.pagespeed.ic.KucKh-Yb2w.webp"
+    
+ }
+,
+  {
+    "id": 6,
+    "title": "Canon STM",
+    "price": 675,
+     "image": "https://preview.colorlib.com/theme/onetech/images/xfeatured_5.png.pagespeed.ic.YLLo4CaDpU.webp"
+    
+ }
+ ]
